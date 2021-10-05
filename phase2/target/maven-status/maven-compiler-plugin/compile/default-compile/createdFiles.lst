@@ -1,0 +1,9 @@
+com\Academy\backoffice\utils\Constants.class
+com\Academy\backoffice\utils\AcademyFactory.class
+com\Academy\backoffice\model\Classe.class
+com\Academy\backoffice\model\Teacher.class
+com\Academy\backoffice\dao\AcademyDao.class
+com\Academy\backoffice\model\Subject.class
+com\Academy\backoffice\model\Student.class
+com\Academy\backoffice\model\TeachingSubject.class
+com\Academy\backoffice\Application.class
